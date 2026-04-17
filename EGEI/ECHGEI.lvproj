@@ -24,7 +24,7 @@
 		<Item Name="Camera.lvclass" Type="LVClass" URL="../Camera/Camera.lvclass"/>
 		<Item Name="S4ICS.lvclass" Type="LVClass" URL="../S4ICS/S4ICS.lvclass"/>
 		<Item Name="Mechanism.lvclass" Type="LVClass" URL="../Mechanism/Mechanism.lvclass"/>
-		<Item Name="ECHGEI.vi" Type="VI" URL="../ECHGEI.vi"/>
+		<Item Name="EGEI.vi" Type="VI" URL="../EGEI.vi"/>
 		<Item Name="TESTE.vi" Type="VI" URL="../TESTE.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -87,7 +87,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{16C5799E-C65C-4372-AA26-98E7AFC24E44}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ECHGEI.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/EGEI.vi</Property>
 				<Property Name="Source[1].properties[0].type" Type="Str">Run when opened</Property>
 				<Property Name="Source[1].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[1].propertiesCount" Type="Int">1</Property>
