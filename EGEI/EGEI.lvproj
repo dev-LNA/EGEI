@@ -24,6 +24,8 @@
 		<Item Name="Camera.lvclass" Type="LVClass" URL="../Camera/Camera.lvclass"/>
 		<Item Name="S4ICS.lvclass" Type="LVClass" URL="../S4ICS/S4ICS.lvclass"/>
 		<Item Name="Mechanism.lvclass" Type="LVClass" URL="../Mechanism/Mechanism.lvclass"/>
+		<Item Name="Command.lvclass" Type="LVClass" URL="../Command/Command.lvclass"/>
+		<Item Name="Request.lvclass" Type="LVClass" URL="../Request/Request.lvclass"/>
 		<Item Name="EGEI.vi" Type="VI" URL="../EGEI.vi"/>
 		<Item Name="TESTE.vi" Type="VI" URL="../TESTE.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
