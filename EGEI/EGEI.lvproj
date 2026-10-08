@@ -13,7 +13,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Comm" Type="Folder">
 			<Item Name="GUI_CH1_Comm_ZEROMQ_REQ.vi" Type="VI" URL="../GUI_CH1_Comm_ZEROMQ_REQ.vi"/>
-			<Item Name="GUI_CH1_Comm_ZEROMQ.vi" Type="VI" URL="../GUI_CH1_Comm_ZEROMQ.vi"/>
 			<Item Name="get_ACS_status.vi" Type="VI" URL="../get_ACS_status.vi"/>
 			<Item Name="publish_status.vi" Type="VI" URL="../publish_status.vi"/>
 		</Item>
